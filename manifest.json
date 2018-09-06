@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "theme": {
     "colors": {
-      "frame": [ 0, 32, 32 ],
+      "frame": [ 0, 0, 0 ],
       "frame_inactive": [ 0, 0, 0 ],
       "toolbar": [ 241, 241, 241 ],
       "tab_text": [ 0, 0, 0 ],
