@@ -1,5 +1,7 @@
 Default theme but with a pure black titlebar without any tinting on inactive windows that makes it gray.
 
+![](https://i.imgur.com/gboexjF.png)
+
 # Install
 
 1. Download this repo as a zip.  
