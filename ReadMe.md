@@ -51,6 +51,6 @@ To change the titlebar color, edit the `manifest.json` and modify the following 
 # Chrome Theme Documentation
 
 * https://developer.chrome.com/extensions/themes
-* Colors: kColorTable in [browser_theme_pack.cc](https://src.chromium.org/viewvc/chrome/trunk/src/chrome/browser/themes/browser_theme_pack.cc#l288)
-* Tints: kTintTable in [browser_theme_pack.cc](https://src.chromium.org/viewvc/chrome/trunk/src/chrome/browser/themes/browser_theme_pack.cc#l275)
+* Colors: kColorTable in [browser_theme_pack.cc](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/chrome/browser/themes/browser_theme_pack.cc#231)
+* Tints: kTintTable in [browser_theme_pack.cc](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/chrome/browser/themes/browser_theme_pack.cc#217)
 
